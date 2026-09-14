@@ -7,6 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <div class="container-fluid bg-dark text-white text-center py-4">
-        <h1>Sistema de reserva de equipamentos</h1>
+    <header class="container-fluid bg-success text-white text-center py-1">
+        <div class="container d-flex">
+        <img src="../Imagens/LogoIFTO.webp" width="100px">
+        <h1 class="m-auto">Sistema de reserva de equipamentos</h1>
     </div>
+    </header>
